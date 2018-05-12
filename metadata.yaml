@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32925
     wikipedia: http://en.wikipedia.org/wiki/Lewis_Morris_(1833-1907)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38011#The-Epic-of-HadesIn-Three-Books
 gutenberg_issued: '2011-11-14'
 gutenberg_type: Text
 identifiers:
